@@ -1,0 +1,23 @@
+{
+ "name": "SOLACE ORIGINAL SPEC (Google/Gemini-assisted draft, Sept 29 2026)",
+ "thermal_power_kw": 30.0,
+ "claimed_electric_kw": 12.15,
+ "claimed_direct_conv_kw": 9.0,
+ "core_radius_mm": 75,
+ "inner_shield_mm": 40,
+ "core_eff_density": 6.0,
+ "coolant": "mercury",
+ "hot_side_c": 600,
+ "cold_side_c": 150,
+ "shell_surface_c": 200,
+ "environment": "air",
+ "outer_shell_radius_m": 0.165,
+ "bus_v": 48,
+ "bus_a": 253,
+ "cluster_modules": 4,
+ "cluster_module_kw": 40,
+ "cluster_total_kw": 160,
+ "enrichment_frac": 0.93,
+ "packing_frac": 0.64,
+ "ambient_c": 25
+}

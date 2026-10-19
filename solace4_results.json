@@ -1,0 +1,125 @@
+{
+ "amendment": "v1.2 pump-coupled sink",
+ "modes": [
+  {
+   "mode": "A_pump_seizure",
+   "foul": 0.93,
+   "pump": 0.0,
+   "load_kw": 5.0,
+   "protected": false,
+   "tripped": false,
+   "trip_at_h": null,
+   "breach_at_h": 0.71,
+   "end_ts_c": 85.1,
+   "end_margin_c": -0.1
+  },
+  {
+   "mode": "A_pump_seizure",
+   "foul": 0.93,
+   "pump": 0.0,
+   "load_kw": 5.0,
+   "protected": true,
+   "tripped": true,
+   "trip_at_h": 0.47,
+   "breach_at_h": null,
+   "end_ts_c": 12.1,
+   "end_margin_c": 72.9
+  },
+  {
+   "mode": "B_macrofouling_blanket",
+   "foul": 0.2,
+   "pump": 1.0,
+   "load_kw": 5.0,
+   "protected": false,
+   "tripped": false,
+   "trip_at_h": null,
+   "breach_at_h": 0.51,
+   "end_ts_c": 85.1,
+   "end_margin_c": -0.1
+  },
+  {
+   "mode": "B_macrofouling_blanket",
+   "foul": 0.2,
+   "pump": 1.0,
+   "load_kw": 5.0,
+   "protected": true,
+   "tripped": true,
+   "trip_at_h": 0.37,
+   "breach_at_h": null,
+   "end_ts_c": 13.0,
+   "end_margin_c": 72.0
+  },
+  {
+   "mode": "C_full_load_disconnect",
+   "foul": 0.93,
+   "pump": 1.0,
+   "load_kw": 0.0,
+   "protected": false,
+   "tripped": false,
+   "trip_at_h": null,
+   "breach_at_h": null,
+   "end_ts_c": 44.7,
+   "end_margin_c": 40.3
+  },
+  {
+   "mode": "C_full_load_disconnect",
+   "foul": 0.93,
+   "pump": 1.0,
+   "load_kw": 0.0,
+   "protected": true,
+   "tripped": false,
+   "trip_at_h": null,
+   "breach_at_h": null,
+   "end_ts_c": 44.7,
+   "end_margin_c": 40.3
+  },
+  {
+   "mode": "D_combined_catastrophe",
+   "foul": 0.2,
+   "pump": 0.0,
+   "load_kw": 0.0,
+   "protected": false,
+   "tripped": false,
+   "trip_at_h": null,
+   "breach_at_h": 0.33,
+   "end_ts_c": 85.3,
+   "end_margin_c": -0.3
+  },
+  {
+   "mode": "D_combined_catastrophe",
+   "foul": 0.2,
+   "pump": 0.0,
+   "load_kw": 0.0,
+   "protected": true,
+   "tripped": true,
+   "trip_at_h": 0.25,
+   "breach_at_h": null,
+   "end_ts_c": 20.0,
+   "end_margin_c": 65.0
+  },
+  {
+   "mode": "E_seawater_warming",
+   "foul": 0.93,
+   "pump": 1.0,
+   "load_kw": 5.0,
+   "protected": false,
+   "tripped": false,
+   "trip_at_h": null,
+   "breach_at_h": null,
+   "end_ts_c": 59.7,
+   "end_margin_c": 25.3
+  },
+  {
+   "mode": "E_seawater_warming",
+   "foul": 0.93,
+   "pump": 1.0,
+   "load_kw": 5.0,
+   "protected": true,
+   "tripped": false,
+   "trip_at_h": null,
+   "breach_at_h": null,
+   "end_ts_c": 59.7,
+   "end_margin_c": 25.3
+  }
+ ]
+}

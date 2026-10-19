@@ -1,0 +1,6 @@
+{"name":"SOLACE HONEST REVISED SPEC v2 (screened, corrected after sim rejection)",
+ "thermal_power_kw":10.0,"claimed_electric_kw":1.0,"claimed_direct_conv_kw":0.0,
+ "core_radius_mm":450,"inner_shield_mm":40,"core_eff_density":4.5,
+ "coolant":"LBE","hot_side_c":350,"cold_side_c":90,
+ "shell_surface_c":80,"environment":"seawater","outer_shell_radius_m":0.62,
+ "bus_v":48,"bus_a":20.83,"enrichment_frac":0.155,"packing_frac":0.60,"ambient_c":4}

@@ -1,0 +1,21 @@
+{
+ "name": "SOLACE AGED PLANT (day 118, end-of-trial gate re-run E16)",
+ "thermal_power_kw": 60.0,
+ "claimed_electric_kw": 11.64,
+ "claimed_direct_conv_kw": 0.0,
+ "core_radius_mm": 420,
+ "inner_shield_mm": 40,
+ "core_eff_density": 4.5,
+ "coolant": "LBE",
+ "hot_side_c": 600,
+ "cold_side_c": 70,
+ "shell_surface_c": 60,
+ "environment": "seawater",
+ "outer_shell_radius_m": 0.7,
+ "bus_v": 48,
+ "bus_a": 242.5,
+ "enrichment_frac": 0.155,
+ "packing_frac": 0.6,
+ "ambient_c": 8,
+ "converter": "stirling+TEG"
+}
