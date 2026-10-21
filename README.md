@@ -49,7 +49,7 @@ the decision path.
 ## Published record
 
 - Sponsor paper (published under the author's name):
-  https://doi.org/10.5281/zenodo.23463568
+  https://doi.org/10.5281/zenodo.23463567
 - The paper's 32-byte hash is anchored on Bitcoin mainnet, block 972104, tx
   [54764b6d...8dded](https://mempool.space/tx/54764b6ddfaacdf4c96de28d8bf8bc44c8fcb2f3ece7669a899bc1d60618dded)
   (hash-only OP_RETURN, no monetary output), and walked a custody round trip on the
